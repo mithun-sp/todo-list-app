@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  margin: 12px 0;
+}
+
+.delete-button{
+  margin-left: 10px;
+}
